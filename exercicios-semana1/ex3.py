@@ -1,0 +1,5 @@
+name = input("Digite seu nome: ")
+print("O nome do usuário é: " + name)
+height = input("Digite sua altura: ")
+print("A altura do usuário é: " + height + " m")
+print("Obrigado pela colaboração!")
